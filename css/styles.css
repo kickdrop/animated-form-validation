@@ -24,7 +24,7 @@ body {
     font-size: 48px;
     margin-bottom: 5px; }
   .form-header h1 {
-    font-weight: 200;
+    font-weight: 300;
     margin-bottom: 30px;
     letter-spacing: 0.3em;
     font-size: 24px; }
@@ -100,7 +100,7 @@ form {
         padding: 20px 0 22px;
         background-color: #3ac56e;
         color: white;
-        font-weight: 400;
+        font-weight: 500;
         -webkit-transition: all 0.4s;
         -moz-transition: all 0.4s;
         transition: all 0.4s; }
